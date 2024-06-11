@@ -9,7 +9,7 @@ In this project, a clinic android application has been implemented and designed 
 
 ## 🎯 Features
 
-The features of this application includes its ability to register different kinds of users in the clinic and give each user his/her access rights as stated in the summary of this project to stimulate a real life clinic.    
+The features of this application include its ability to register different kinds of users in the clinic and give each user his/her access rights as stated in the summary of this project to stimulate a real life clinic.    
 
 
 ## 🔧 Installation
