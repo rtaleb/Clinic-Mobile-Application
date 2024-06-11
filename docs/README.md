@@ -4,7 +4,7 @@ This directory contains detailed documentation for **Clinic-Mobile-Application**
 
 
 ### Entity Relation ER Diagram
-![Class Diagram](ClinicMobileApplication/docs/diagrams/ER-Diagram.png)
+![Class Diagram](docs/diagrams/ER-Diagram.png)
 
 ### Sequence Diagram
 ![Sequence Diagram](diagrams/sequence-diagram.png)
