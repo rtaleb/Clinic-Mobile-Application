@@ -33,16 +33,14 @@ To get started with **Clinic-Monile-Application**, follow these simple steps:
 
 ## 🚀 Usage
 
-Here's how you can start using Project Name:
+Here's how you can start using Clinic-Mobile-Application:
 1. Launch the app on your Android device.
-2. Explore the features:
-   - Feature 1: How to use it.
-   - Feature 2: How to use it.
-   - Feature 3: How to use it.
+2. Explore the features.
 
+   
 ## 📚 Documentation
 
-For detailed information on how to use Project Name, please refer to our Documentation.
+For detailed information on how to use Clinic-Mobile-Application, please refer to our Documentation.
 
 ## 📜 License
 
