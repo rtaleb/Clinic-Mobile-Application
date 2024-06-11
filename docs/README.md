@@ -3,8 +3,8 @@
 This directory contains detailed documentation for **Clinic-Mobile-Application** project, including diagrams (ER diagram, UML diagram, Use case diagram and Sequence diagram), the details of using Agile method, the the design patterns used and other technical explanations.
 
 
-### Class Diagram
-![Class Diagram](diagrams/class-diagram.png)
+### Entity Relation ER Diagram
+![Class Diagram](CliniMobileApplication/docs/diagrams/ER-Diagram.png)
 
 ### Sequence Diagram
 ![Sequence Diagram](diagrams/sequence-diagram.png)
