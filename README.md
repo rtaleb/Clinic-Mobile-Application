@@ -1,5 +1,5 @@
 # Clinic-Mobile-Application
-![Project Logo](app/src/main/res/drawable/lumc_logo1.jpg)
+![Project Logo](app/src/main/res/drawable/lumc_logo2.jpg)
 
 
 ## 🚀 Overview
