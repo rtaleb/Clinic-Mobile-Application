@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_prescription"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.mc.info.lumc.CreateMedicalReport">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_create_prescription_notes"
+        android:hint="Notes"/>
+
+    <Button
+        android:text="Save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="insertToDatabase"
+        android:id="@+id/activity_create_prescription_savePrescription"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="New Item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/add_btn1"
+        android:id="@+id/activity_create_prescription_saveItem"
+        android:onClick="insertToPrescription"
+        android:layout_marginRight="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_below="@+id/activity_create_prescription_notes"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_create_prescription_typeList"
+        android:entries="@array/types"
+        android:layout_alignBaseline="@+id/activity_create_prescription_saveItem"
+        android:layout_alignBottom="@+id/activity_create_prescription_saveItem"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <AutoCompleteTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_create_prescription_prescribed"
+        android:hint="Prescribe"
+        android:layout_below="@+id/activity_create_prescription_saveItem"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:visibility="invisible"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_create_prescription_examList"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:entries="@array/Exams"
+        android:layout_below="@+id/activity_create_prescription_saveItem"
+        android:visibility="invisible"
+        android:layout_alignBottom="@+id/activity_create_prescription_prescribed" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_create_prescription_listOfPrescriptions"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/activity_create_prescription_dates"
+        android:layout_above="@+id/activity_create_prescription_savePrescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activity_create_prescription_prescribed"
+        android:layout_alignParentLeft="true"
+        android:padding="10dp"
+        android:id="@+id/activity_create_prescription_dates"
+        android:layout_centerInParent="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:text="From"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_create_prescription_from"
+            android:inputType="none"
+            android:ems="10"
+            android:focusable="false"/>
+
+        <TextView
+            android:text="To"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_create_prescription_to"
+            android:ems="10"
+            android:inputType="none"
+            android:focusable="false"/>
+    </LinearLayout>
+
+</RelativeLayout>

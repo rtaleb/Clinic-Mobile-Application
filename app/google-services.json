@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "861885778743",
+    "firebase_url": "https://lumc-21439.firebaseio.com",
+    "project_id": "lumc-21439",
+    "storage_bucket": "lumc-21439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861885778743:android:34f027288a822db2",
+        "android_client_info": {
+          "package_name": "com.mc.info.lumc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861885778743-0aq2so06jnih2ddj1huea2kqhuuluhtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.info.lumc",
+            "certificate_hash": "1F69D0C4A3CE6FEF0083E7961D88B9F58F52C7CD"
+          }
+        },
+        {
+          "client_id": "861885778743-2h8jnsg8fa57e3fjquusvi2h6dt1lvin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.info.lumc",
+            "certificate_hash": "BC3249E7CDB02F0E7146A35D0F0CA84FB237D83B"
+          }
+        },
+        {
+          "client_id": "861885778743-qlti06u394eh08a6err7p7fv53nr25d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.info.lumc",
+            "certificate_hash": "B5D8A53D538764774153BEF3768CDCEF3760D7BC"
+          }
+        },
+        {
+          "client_id": "861885778743-b3dkenb1dmdk61p77sr8k26o40uclpkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.info.lumc",
+            "certificate_hash": "7423151638A0F7CFB048CABE902041A7BA02F565"
+          }
+        },
+        {
+          "client_id": "861885778743-24ak2ua8biv1uut6r023c8313mc0169p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.info.lumc",
+            "certificate_hash": "64F552EF329804C4843CA1A8D69DE51F4D79F22B"
+          }
+        },
+        {
+          "client_id": "861885778743-v24fpdar1kf0ent3atn09o92do9b4tb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.info.lumc",
+            "certificate_hash": "E441555B697AF4CFC2228C428D551112F52BA58E"
+          }
+        },
+        {
+          "client_id": "861885778743-ucgk5kdo7ffs2gqrv5rbc10jr21dqvm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjqjVpP-KIIfKUadPwOx_GJq5NAsSoAy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861885778743-ucgk5kdo7ffs2gqrv5rbc10jr21dqvm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

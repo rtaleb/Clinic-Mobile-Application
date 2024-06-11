@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:title="Go to the doctors list"
+            android:icon="@drawable/doctor"
+            android:id="@+id/drwrViewDoctors"/>
+
+        <item
+            android:title="Go to the patients list"
+            android:icon="@drawable/patient"
+            android:id="@+id/drwrViewPatients" />
+</menu>

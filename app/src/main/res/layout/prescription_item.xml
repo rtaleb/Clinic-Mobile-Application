@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:paddingLeft="6dp"
+    >
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_centerVertical="true"
+        android:layout_weight="1"
+        android:id="@+id/prescription_item_prescribe" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/prescription_item_remove"
+        android:layout_weight="6"
+        android:onClick="removePrescription"
+        android:text="X"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+</LinearLayout>
