@@ -12,43 +12,43 @@ The project makes progress in a series of  "sprints" (1 - 4 week each) where eac
 **First Sprint:**
    - Implement a list of all available doctors in the clinic ordered by name and specialty and allow each user to see it and search for a doctor by first and last name.
      
-     ![](Screenshots/agile-firstsprint-1.png)
+     ![](screenshots/agile-firstsprint-1.png)
 
    - Implement a list of patients for each doctor and allow each doctor to view his list of patients and can search for a patient by first and last name.
 
-     ![](Screenshots/agile-firstsprint-2.png)
+     ![](screenshots/agile-firstsprint-2.png)
 
    - Implement code and xml for doctor profile and patient profile.
 
-     ![](Screenshots/agile-firstsprint-3.png)  ![](Screenshots/agile-firstsprint-4.png)
+     ![](screenshots/agile-firstsprint-3.png)  ![](screenshots/agile-firstsprint-4.png)
 
 
      
 **Second Sprint:**
    - Implement the code and the xml page for medical examinations and allow the user to insert results of medical examinations.
 
-     ![](Screenshots/agile-secondsprint-1.png) ![](Screenshots/agile-secondsprint-2.png)
+     ![](screenshots/agile-secondsprint-1.png) ![](screenshots/agile-secondsprint-2.png)
      
    - Implement the code and the xml that allows patients and doctors to view the history of a specific data during the treatment.
      
    - Implement the code that allow each doctor to order treatment and precautions for his patients.
 
-     ![](Screenshots/agile-secondsprint-3.png) ![](Screenshots/agile-secondsprint-4.png)
+     ![](screenshots/agile-secondsprint-3.png) ![](screenshots/agile-secondsprint-4.png)
      
 **Third Sprint:**
    - Implement the code and xml that allows a patient to consult the results of his medical examinations.
      
    - Implement the code and xml that allows each doctor to order medical examinations for his patients.
 
-     ![](Screenshots/agile-thirdsprint-1.png)
+     ![](screenshots/agile-thirdsprint-1.png)
      
    - Implement the code and xml for medical records for each patient and allow the doctor to see them.
 
-     ![](Screenshots/agile-thirdsprint-2.png)
+     ![](screenshots/agile-thirdsprint-2.png)
      
    - Implement the code and xml that allows the  user to register in the application as a patient or doctor and login.
 
-     ![](Screenshots/agile-thirdsprint-3.png) ![](Screenshots/agile-thirdsprint-4.png)
+     ![](screenshots/agile-thirdsprint-3.png) ![](screenshots/agile-thirdsprint-4.png)
 
 
 ## Database
