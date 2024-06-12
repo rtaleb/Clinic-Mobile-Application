@@ -40,7 +40,7 @@ Here's how you can start using Clinic-Mobile-Application:
    
 ## 📚 Documentation
 
-For detailed information on how to use Clinic-Mobile-Application, please refer to our ![Documentation](docs).
+For detailed information on how to use Clinic-Mobile-Application, please refer to our [Documentation](docs).
 
 ## 📜 License
 
