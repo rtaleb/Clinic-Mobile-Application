@@ -1,6 +1,6 @@
 ## 📖 Overview
 
-In this report, a clinic android application has been implemented and designed. The work is organized using agile scrum method to get the best business value. All the tasks in the product backlog are done. This application is phone-based and can be run on your mobile. We hope everybody will take benefit from our application. 
+A clinic android application has been implemented and designed. The work is organized using agile scrum method to get the best business value. All the tasks in the product backlog are done. This application is phone-based and can be run on your mobile.  
 
 This directory contains detailed documentation for **Clinic-Mobile-Application** project, including diagrams (ER diagram, UML diagram, Use case diagram and Sequence diagram), the details of using Agile method, the the design patterns used and other technical explanations.
 
