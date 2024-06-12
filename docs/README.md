@@ -11,7 +11,7 @@ The project makes progress in a series of  "sprints" (1 - 4 week each) where eac
 
 **First Sprint:**
    - Implement a list of all available doctors in the clinic ordered by name and specialty and allow each user to see it and search for a doctor by first and last name.
-     ![](screenshots/agile-firstsprint-1.png)
+     ![](Screenshots/agile-firstsprint-1.png)
 
    - Implement a list of patients for each doctor and allow each doctor to view his list of patients and can search for a patient by first and last name.
    - Implement code and xml for doctor profile and patient profile.
