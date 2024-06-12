@@ -7,6 +7,7 @@ This directory contains detailed documentation for **Clinic-Mobile-Application**
 
 ## Agile Scrum
 The project makes progress in a series of  "sprints" (1 - 4 week each) where each sprint is preceded by a sprint planning meeting to select from the Product backlog what can be committed at the end of sprint, define sprint goal and sprint backlog. Project is designed, coded and tested during the sprint. Daily srum meeting is done every 24 Hours. After each sprint, we make a sprint review to present what accomplished during the sprint and a sprint retrospective to take a look at what is and is not working . 
+
 **The work runs in 3 sprints:**
 
 **First Sprint:**
