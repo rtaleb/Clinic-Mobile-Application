@@ -8,13 +8,14 @@ We used **Power designer** to draw the ER-diagram, **star-UML** to draw the clas
 
 ### Entity Relation ER Diagram
 12 tables exist in the ER diagram : patient, doctor, certificates, consults, medicalReport, medication, precaution, examination, healthState, prescExam, doctorConsults and patientConsults.
+
 ![Entity Relation ER Diagram](diagrams/ER-Diagram.png)
 
 ### Class Diagram
 ![Class Diagram](diagrams/Class-Diagram.png)
 
-### Activity Diagram
-![Activity Diagram](diagrams/activity-diagram.png)
+### Use case Diagram
+![Use case Diagram](diagrams/Usecase-Diagram.png)
 
 ## 📑 Implementation
 
