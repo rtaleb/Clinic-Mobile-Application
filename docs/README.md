@@ -13,10 +13,12 @@ The project makes progress in a series of  "sprints" (1 - 4 week each) where eac
    - Implement a list of all available doctors in the clinic ordered by name and specialty and allow each user to see it and search for a doctor by first and last name.
    - Implement a list of patients for each doctor and allow each doctor to view his list of patients and can search for a patient by first and last name.
    - Implement code and xml for doctor profile and patient profile.
+     
 **Second Sprint:**
    - Implement the code and the xml page for medical examinations and allow the user to insert results of medical examinations.
    - Implement the code and the xml that allows patients and doctors to view the history of a specific data during the treatment.
    - Implement the code that allow each doctor to order treatment and precautions for his patients.
+     
 **Third Sprint:**
    - Implement the code and xml that allows a patient to consult the results of his medical examinations.
    - Implement the code and xml that allows each doctor to order medical examinations for his patients.
